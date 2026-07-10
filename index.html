@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1 class="gallery-title">Filterable Image Gallery</h1>
+
+    <!-- Filter buttons -->
+    <div class="filter-buttons">
+        <button class="filter-btn active" data-target="all">All</button>
+        <button class="filter-btn" data-target="nature">Nature</button>
+        <button class="filter-btn" data-target="tech">Tech</button>
+        <button class="filter-btn" data-target="travel">Travel</button>
+    </div>
+
+    <!-- Image Gallery grid  -->
+    <div class="gallery-container">
+        <!-- Nature Category -->
+        <div class="gallery-item" data-category="nature"><img src="https://picsum.photos" alt="Nature 1" class="gallery-img"></div>
+        <div class="gallery-item" data-category="nature"><img src="https://picsum.photos" alt="Nature 2" class="gallery-img"></div>
+        
+        <!-- Tech Category -->
+        <div class="gallery-item" data-category="tech"><img src="https://picsum.photos" alt="Tech 1" class="gallery-img"></div>
+        <div class="gallery-item" data-category="tech"><img src="https://picsum.photos" alt="Tech 2" class="gallery-img"></div>
+        
+        <!-- Travel Category -->
+        <div class="gallery-item" data-category="travel"><img src="https://picsum.photos" alt="Travel 1" class="gallery-img"></div>
+        <div class="gallery-item" data-category="travel"><img src="https://picsum.photos" alt="Travel 2" class="gallery-img"></div>
+    </div>
+
+    <!-- LightBox -->
+    <div id="lightbox" class="lightbox">
+        <span class="close-btn">&times;</span>
+        <button class="nav-btn prev-btn">&#10094;</button>
+        <div class="lightbox-content">
+            <img id="lightbox-img" src="" alt="Enlarged Image">
+        </div>
+        <button class="nav-btn next-btn">&#10095;</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
