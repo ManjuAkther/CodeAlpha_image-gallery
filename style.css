@@ -27,7 +27,7 @@ body {
 }
 
 /* ==========================================
-   2. GLASSMORPHISM FILTER BUTTONS
+   2. FILTER BUTTONS
    ========================================== */
 .filter-buttons {
     display: flex;
@@ -68,7 +68,7 @@ body {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 25px;
     max-width: 1600px;
-    margin: 0 auto;
+    margin: 0px auto;
 }
 
 /* ==========================================
@@ -160,7 +160,7 @@ body {
    5. LIGHTBOX OVERLAY VIEW
    ========================================== */
 .lightbox {
-    display: none;
+    display:flex;
     position: fixed;
      opacity:0;
     transition:opacity .3s ease;
