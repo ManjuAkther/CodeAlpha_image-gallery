@@ -6,7 +6,7 @@ A modern and responsive **Filterable Image Gallery** built using **HTML5, CSS3, 
 
 ## 🚀 Live Demo
 
-🔗 Live Site: 
+🔗 Live Site: https://filterable-gallery-image.netlify.app/
 
 🔗 GitHub Repository: https://github.com/yourusername/filterable-image-gallery
 
