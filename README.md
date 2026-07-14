@@ -6,7 +6,7 @@ A modern and responsive **Filterable Image Gallery** built using **HTML5, CSS3, 
 
 ## 🚀 Live Demo
 
-🔗 Live Site: https://your-live-link.netlify.app
+🔗 Live Site: 
 
 🔗 GitHub Repository: https://github.com/yourusername/filterable-image-gallery
 
@@ -186,31 +186,19 @@ Through this project, I improved my understanding of:
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-
-_Add your project screenshot here_
-
-### Lightbox View
-
-_Add your lightbox screenshot here_
-
----
-
 ## 👩‍💻 Author
 
 **Manju Akther**
 
 Frontend Developer
 
-📧 Email: your-email@example.com
+📧 Email: manjuakther47@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: linkedin.com/in/manju-akther-7639022a7
 
-🌐 Portfolio: https://your-portfolio-link.com
+🌐 Portfolio: https://manju-frontend-portfolio.netlify.app
 
-🐙 GitHub: https://github.com/yourusername
+🐙 GitHub: https://github.com/ManjuAkther/CodeAlpha_image-gallery.git
 
 ---
 
