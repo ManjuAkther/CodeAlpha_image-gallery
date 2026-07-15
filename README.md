@@ -8,7 +8,7 @@ A modern and responsive **Filterable Image Gallery** built using **HTML5, CSS3, 
 
 🔗 Live Site: https://filterable-gallery-image.netlify.app/
 
-🔗 GitHub Repository: https://github.com/yourusername/filterable-image-gallery
+🔗 GitHub Repository:https://github.com/ManjuAkther/CodeAlpha_image-gallery.git
 
 ---
 
